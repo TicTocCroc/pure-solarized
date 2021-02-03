@@ -1,0 +1,21 @@
+{
+    "name": "pure-solarized-dark",
+    "displayName": "Pure Solarized Dark",
+    "description": "A basic modification of the built-in Solarized theme using the correct base colors.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pure Solarized Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pure Solarized Dark-color-theme.jsonc"
+            }
+        ]
+    }
+}

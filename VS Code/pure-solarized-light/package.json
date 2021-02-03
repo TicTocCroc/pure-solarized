@@ -1,0 +1,21 @@
+{
+    "name": "pure-solarized-light",
+    "displayName": "Pure Solarized Light",
+    "description": "A basic modification of the built-in Solarized theme using the correct base colors.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pure Solarized Light",
+                "uiTheme": "vs",
+                "path": "./themes/Pure Solarized Light-color-theme.json"
+            }
+        ]
+    }
+}
