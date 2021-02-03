@@ -3,6 +3,7 @@
     "displayName": "Pure Solarized Light",
     "description": "A basic modification of the built-in Solarized theme using the correct base colors.",
     "version": "0.0.1",
+    "publisher": "tylergardner",
     "engines": {
         "vscode": "^1.52.0"
     },
