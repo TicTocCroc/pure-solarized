@@ -14,7 +14,7 @@
             {
                 "label": "Pure Solarized Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Pure Solarized Dark-color-theme.jsonc"
+                "path": "./themes/pure-solarized-dark-color-theme.json"
             }
         ]
     }
