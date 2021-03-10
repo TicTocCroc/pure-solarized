@@ -5,5 +5,8 @@
     "description": "A faithful implementation of the Solarized theme.",
     "version": "1.0",
     "categories": ["themes"],
-    "license": "MIT"
+    "license": "MIT",
+    "bugs": {
+        "email": "bugs@tylergardner.org"
+    }
 }
