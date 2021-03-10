@@ -6,6 +6,6 @@ The assignment of accent colors is more open to interpretation. But monotone, co
 
 Both light and dark themes are included.
 
-![](https://raw.githubusercontent.com/TicTocCroc/pure-solarized/main/Nova/Pure%20Solarized.novaextension/Images/extension/pure_solarized_light.png?token=AADU77I35TQ4YSYBBY35FN3AJBYWG)
+![](https://raw.githubusercontent.com/TicTocCroc/pure-solarized/main/Nova/Pure%20Solarized.novaextension/Images/extension/pure_solarized_light.png)
 
-![](https://raw.githubusercontent.com/TicTocCroc/pure-solarized/main/Nova/Pure%20Solarized.novaextension/Images/extension/pure_solarized_dark.png?token=AADU77MJAJQ326FXULWWTQDAJBYXM)
+![](https://raw.githubusercontent.com/TicTocCroc/pure-solarized/main/Nova/Pure%20Solarized.novaextension/Images/extension/pure_solarized_dark.png)
